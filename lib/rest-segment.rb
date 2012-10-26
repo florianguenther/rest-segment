@@ -1,6 +1,6 @@
 require "rest-segment/version"
 require "httparty"
-require "active_support/core_ext"
+require "json"
 
 module Segment
   class API
