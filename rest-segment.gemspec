@@ -6,7 +6,7 @@ require 'rest-segment/version'
 Gem::Specification.new do |gem|
   gem.name          = "rest-segment"
   gem.version       = Segment::VERSION
-  gem.authors       = ["Florian Guuenther"]
+  gem.authors       = ["Florian Guenther"]
   gem.email         = ["me@florianguenther.com"]
   gem.description   = %q{REST API wrapper for segment.io}
   gem.summary       = %q{Simply wraps the JSON RESTP API calls to segment.io}
